@@ -71,10 +71,10 @@ matching orders are different.
 
 Every executed trade is recorded with:
 
-Trade ID
-Execution price
-Execution quantity
-Execution time
+-  Trade ID
+-  Execution price
+-  Execution quantity
+-  Execution time
 
 The trade history can be viewed and searched using different criteria.
 
@@ -89,9 +89,9 @@ Clone the repository and run:
 python Exchange.py
 
 ## Project Structure
-Terminal-Exchange
-│
-├── Exchange.py
+Terminal-Exchange   
+│  
+├── Exchange.py     
 └── README.md
 
 ## Project Status
